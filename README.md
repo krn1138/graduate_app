@@ -53,7 +53,7 @@ https://app.diagrams.net/#Hkrn1138%2FRuby_kadai%2Fmaster%2FUntitled%20Diagram.dr
 # 画面ワイヤーフレーム
 https://cacoo.com/diagrams/n6fyPFohq5aakEym/F59BB?reload_rt=1616654748335_0
 
-# 使用予定Gem
+# 使用予定Gem/技術
 * devise
 * gem devise-i18n
 * gecoder 
@@ -65,10 +65,10 @@ https://cacoo.com/diagrams/n6fyPFohq5aakEym/F59BB?reload_rt=1616654748335_0
 * geocoder
 * bootstrap4
 * active storage  or  carrier wave
+* AWS
 
 (猶予があれば)
 
 * Payjp
 * jpmobile
 * OAuth
-* AWS
